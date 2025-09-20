@@ -1,0 +1,10 @@
+Smart Blood Donation & Donor Engagement System
+1.	Problem Statement
+Blood banks and hospitals often struggle to maintain updated donor records, schedule donations, and quickly match donors to urgent requests. Without a centralized system, donation management becomes inefficient, resulting in shortages and delays during emergencies.
+2.	Project Overview
+The proposed Salesforce CRM solution will manage donor databases, schedule donations, send eligibility reminders, and connect donors to real-time urgent requests. It will track donation history and provide transparency for hospitals and blood banks.
+3.	Objectives
+-	Improve Efficiency: Centralize donor and donation data.
+-	Automate Reminders: Notify donors when they are eligible to donate again.
+-	Provide Better Matching: Quickly connect urgent requests with nearby eligible donors.
+-	Ensure Data Accuracy: Maintain reliable records of donations and donor health checks. - Enhance Donor Experience: Build trust and loyalty through timely communication.
